@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Art Gallery</string>
+
+    <string name="God_krishna">God Load Krishna </string>
+    <string name="krishna">krishna</string>
+
+    <string name="harley_davidson">Harley Davidson Bike</string>
+    <string name="harley">Harley</string>
+
+    <string name="jungle_king">Jungle King</string>
+    <string name="manish">Manish</string>
+
+    <string name="mercedes_car">Mercedes Car</string>
+    <string name="mercedes">Mercedes</string>
+
+    <string name="white_Flower">White Flower</string>
+    <string name="swarnali_das">Swarnali Das</string>
+
+    <string name="goa_beach">Goa Beach</string>
+    <string name="saket">Saket</string>
+
+    <string name="illuminati_gold">Illuminati Gold</string>
+    <string name="illuminati">Illuminati</string>
+
+    <string name="kriti">Kriti Sanon</string>
+    <string name="Sanon">Sanon</string>
+    
+    <string name="pirates">Pirates of the Caribbean</string>
+    <string name="Johnny_Depp">Johnny Depp</string>
+</resources>
